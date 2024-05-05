@@ -41,6 +41,13 @@ const knicksPlayers = {
         'draftYear': 2017,
         'birthPlace': 'Eugene, OR'
     },
+    'julius randle': {
+        'age': 29,
+        'position': 'PF',
+        'jerseyNumber': 30,
+        'draftYear': 2014,
+        'birthPlace': 'Dallas, TX'
+    },
     'unknown': {
         'age': 0,
         'position': 'N/A',
