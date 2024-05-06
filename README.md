@@ -8,11 +8,11 @@ API that returns JSON data of information on NY Knicks players, including their 
 **Tech used:** HTML, JavaScript, Node.js, Express Framework
 
 ## Optimizations
-Node Modules file included in .gitignore file to reduce file size. You must run `npm install` in the terminal after cloning or downloading the project to receive project dependencies. 
+Node Modules file included in `.gitignore` file to reduce file size. You must run `npm install` in the terminal after cloning or downloading the project to receive project dependencies. 
 
 ## Lessons Learned:
 
-The project wasn't running on my local machine, so I added `CORS` to allow for API to run on locally.
+The project wasn't running on my local machine, so I added a dependency for CORS to allow for API to run on locally.
 
 ## Examples:
 Take a look at Jalen Brunson's info!
