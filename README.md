@@ -8,7 +8,7 @@ API that returns JSON data of information on NY Knicks players, including their 
 **Tech used:** HTML, JavaScript, Node.js, Express Framework
 
 ## Optimizations
-Node Modules is included in .gitignore file, so run `npm install` in terminal after cloning or downloading the project to receive dependencies. 
+Node Modules is included in .gitignore file, so run npm install in terminal after cloning or downloading the project to receive dependencies. 
 
 ## Lessons Learned:
 
