@@ -16,6 +16,6 @@ The project wasn't running on my local machine, so I added `CORS` to allow for A
 
 ## Examples:
 Take a look at Jalen Brunson's info!
-https://raymond-rapper-api-b82af4f2d15a.herokuapp.com/api/chance%20the%20rapper](https://knicks-players-api-4f6a9b1d5235.herokuapp.com/api/jalen%20brunson)
+https://knicks-players-api-4f6a9b1d5235.herokuapp.com/api/jalen%20brunson
 
 
